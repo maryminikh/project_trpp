@@ -1,0 +1,25 @@
+.glass {
+    width: 70%;
+    height: 100%;
+    box-shadow: 0 0 1rem 0 rgba(41, 39, 39, 0.2);
+    border-radius: 10px;
+    position: relative;
+    z-index: 1;
+    background: inherit;
+    overflow: hidden;
+    padding: 20px;
+}
+
+body {
+
+    background-color: #e8f6ff;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px dotted black;
+    padding: 10px 10px 10px 10px;
+
+
+    font-family: "Courier New", monospace;
+    font-size: xx-large;
+    color: mediumblue;
+}
